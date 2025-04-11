@@ -8,7 +8,7 @@ CodeHelper is the most advanced macOS utility app that operates with **complete 
 ---
 
 ## 🎟️ New User Offer
-`47288725f8661ede1832a4a04e335a290bf82f92aa880b96c2123bf05904aeb8`  
+`pre_user_codehelper_demo`  
 *(Valid for pre-raise/new commerce users only)*  
 
 🔑 **For a real product key**, email: [maasterrai@gmail.com](mailto:maasterrai@gmail.com)
